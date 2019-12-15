@@ -1,0 +1,10 @@
+.ContactData{
+    display:grid;
+    grid-template-columns: auto auto;
+    grid-gap: 2em;
+    width: auto;
+    margin:10px auto;
+    background-color: aliceblue;
+    padding:30px;
+
+}

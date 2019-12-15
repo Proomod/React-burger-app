@@ -1,0 +1,22 @@
+.Button{
+    font:inherit;
+    border:none;
+    outline:none;
+    cursor:pointer;
+    color:white;
+    padding:10px;
+    margin:10px;
+    font-weight:bold;
+    border-radius: 2px;
+}
+.Button:first-of-type{
+    margin-left:0;
+    padding-left:0;
+}
+
+.Success{
+    color:#569210;
+}
+.Danger{
+    color:#944317;
+}

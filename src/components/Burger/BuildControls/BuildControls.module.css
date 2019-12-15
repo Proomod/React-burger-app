@@ -1,0 +1,15 @@
+.BuildControls{
+    width:100%;
+    background-color: #CF8F2E;
+    display:flex;
+    flex-flow: column;
+    align-items: center;
+    box-shadow: 0 2px 1px #ccc ;
+    margin:auto;
+    padding:10px 0px ;
+}
+@media(max-width:499px){
+    .BuildControls{
+        margin-top:142px;
+    }
+}
